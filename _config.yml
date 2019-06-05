@@ -78,4 +78,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+#  repo: https://gitee.com/febris21/blog.git
+  repo: https://github.com/february/blog.git
+  branch: gh-pages
